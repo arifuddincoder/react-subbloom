@@ -1,6 +1,7 @@
 # 🌸 SubBloom - Smart Digital Solutions
 
-SubBloom হলো একটি সাবস্ক্রিপশন-ভিত্তিক স্মার্ট ডিজিটাল সলিউশন প্ল্যাটফর্ম, যেখানে ইউজাররা Website Setup, SEO Toolkit, Performance Boost সহ বিভিন্ন ডিজিটাল সার্ভিস মাসিক সাবস্ক্রিপশনের মাধ্যমে নিতে ও ম্যানেজ করতে পারে। এই পূর্ণাঙ্গ ওয়েব অ্যাপটি React, Firebase Authentication, React Router এবং TailwindCSS দিয়ে তৈরি করা হয়েছে, যা ইউজারদের জন্য একটি স্মার্ট, নিরাপদ এবং কাস্টমাইজড অভিজ্ঞতা প্রদান করে।
+**SubBloom** is a subscription-based smart digital solution platform where users can subscribe to and manage various digital services—such as Website Setup, SEO Toolkit, and Performance Boost—on a monthly basis. This full-featured web app is built using React, Firebase Authentication, React Router, and TailwindCSS, providing users with a smart, secure, and customized experience.
+
 
 🔗 **Live Link**:  
 [https://b11a9-subbloom.web.app/](https://b11a9-subbloom.web.app/)
@@ -13,7 +14,8 @@ SubBloom হলো একটি সাবস্ক্রিপশন-ভিত�
 
 ## 🎯 Project Purpose
 
-এই অ্যাসাইনমেন্টটি তৈরি করা হয়েছে একটি Subscription Box Service Platform হিসেবে, যেখানে ইউজাররা বিভিন্ন ডিজিটাল সার্ভিসে সাবস্ক্রাইব করতে পারবে। ইউজাররা লগইন ও রেজিস্টার করতে পারবে, প্রোফাইল আপডেট করতে পারবে এবং সার্ভিসে রিভিউ দিতে পারবে।
+This assignment has been developed as a **Subscription Box Service Platform**, where users can subscribe to various digital services. Users will be able to log in and register, update their profiles, and leave reviews on the services.
+
 
 ---
 
