@@ -6,7 +6,7 @@ SubBloom হলো একটি সাবস্ক্রিপশন-ভিত�
 [https://b11a9-subbloom.web.app/](https://b11a9-subbloom.web.app/)
 
 🔗 **Repo Link**:  
-[https://github.com/programming-hero-web-course1/b11a9-react-authentication-arif128551](https://github.com/programming-hero-web-course1/b11a9-react-authentication-arif128551)
+[https://github.com/arif128551/react-subbloom](https://github.com/arif128551/react-subbloom)
 
 
 ---
