@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Top 5 SEO Tips for 2025",
+    "slug": "top-5-seo-tips-2025",
+    "image": "https://i.ibb.co.com/pvy19VtW/top-5-seo-tips-for-2025.jpg",
+    "author": "Hasan Ali",
+    "published_date": "2025-04-01",
+    "category": "SEO",
+    "tags": ["SEO", "Search Engine", "Ranking", "Google"],
+    "is_featured": true,
+    "content": "SEO in 2025 is more than just keywords. To rank higher, focus on user experience, fast loading speeds, mobile optimization, and high-quality backlinks. Also, stay updated with Google’s algorithm changes and use structured data to enhance visibility in search results."
+  },
+  {
+    "id": 2,
+    "title": "Why Website Speed Matters More Than Ever",
+    "slug": "website-speed-matters",
+    "image": "https://i.ibb.co.com/BVHSg6Y8/why-website-speed-matters-more-than-ever.jpg",
+    "author": "Farzana Rahim",
+    "published_date": "2025-04-04",
+    "category": "Performance",
+    "tags": ["Website Speed", "Optimization", "Core Web Vitals"],
+    "is_featured": false,
+    "content": "A slow website frustrates users and lowers your SEO rankings. Google’s Core Web Vitals emphasize speed as a major ranking factor. Optimize images, reduce server response time, and use efficient caching to keep your website blazing fast."
+  },
+  {
+    "id": 3,
+    "title": "The Ultimate Guide to CMS Platforms",
+    "slug": "guide-to-cms-platforms",
+    "image": "https://i.ibb.co.com/B5NctXcR/the-ultimate-guide-to-cms-platforms.jpg",
+    "author": "Nusaiba T.",
+    "published_date": "2025-04-07",
+    "category": "CMS",
+    "tags": ["WordPress", "Content Management", "Joomla", "Webflow"],
+    "is_featured": true,
+    "content": "Choosing the right CMS is key to managing your content effectively. WordPress is great for blogs, while Webflow suits designers. For complex enterprise sites, Drupal is a powerful choice. Evaluate based on ease of use, flexibility, and scalability."
+  },
+  {
+    "id": 4,
+    "title": "How to Automate Your Email Campaigns",
+    "slug": "automate-email-campaigns",
+    "image": "https://i.ibb.co.com/mVn5C56d/how-to-automate-your-email-campaigns.jpg",
+    "author": "Tanvir Hossain",
+    "published_date": "2025-04-10",
+    "category": "Marketing",
+    "tags": ["Email Automation", "Mailchimp", "Campaign", "Marketing"],
+    "is_featured": false,
+    "content": "Email automation helps you connect with customers at the right time. Tools like Mailchimp or Sendinblue let you create drip campaigns, schedule product updates, and personalize emails based on user behavior — saving time and boosting engagement."
+  },
+  {
+    "id": 5,
+    "title": "Understanding Google Analytics 4",
+    "slug": "google-analytics-4-basics",
+    "image": "https://i.ibb.co.com/S7vv27Yc/understanding-google-analytics-4.jpg",
+    "author": "Arif Rahman",
+    "published_date": "2025-04-13",
+    "category": "Analytics",
+    "tags": ["GA4", "Analytics", "User Behavior", "Traffic"],
+    "is_featured": true,
+    "content": "Google Analytics 4 (GA4) introduces event-based tracking, making it easier to understand user interactions. It supports cross-platform data and advanced AI-powered insights. Learning GA4 is crucial for accurate tracking and improving your digital strategies."
+  }
+]

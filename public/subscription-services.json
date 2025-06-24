@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Website Setup",
+    "thumbnail": "https://i.ibb.co.com/b5rfMVTh/website-setup.jpg",
+    "banner": "https://i.ibb.co.com/b5rfMVTh/website-setup.jpg",
+    "frequency": "Yearly",
+    "price": 199.99,
+    "description": "Build and launch a responsive business website with SEO and security essentials.",
+    "tech_category": "Web Development",
+    "features": [
+      "Responsive Web Layout",
+      "SEO-Friendly Structure",
+      "Form and CTA Setup"
+    ],
+    "subscription_benefits": [
+      "One Year Hosting Free",
+      "SSL and Site Security",
+      "Launch Help & Edits"
+    ],
+    "ratings": 5,
+    "number_of_reviews": 376
+  },
+  {
+    "id": 2,
+    "name": "SEO Toolkit",
+    "thumbnail": "https://i.ibb.co.com/SDdJgtyh/seo-toolkit.jpg",
+    "banner": "https://i.ibb.co.com/SDdJgtyh/seo-toolkit.jpg",
+    "frequency": "Monthly",
+    "price": 29.99,
+    "description": "Improve ranking and drive traffic with audits, keyword tools, and reports.",
+    "tech_category": "SEO",
+    "features": [
+      "Keyword Rank Tracker",
+      "Technical SEO Checks",
+      "Competitor Insights"
+    ],
+    "subscription_benefits": [
+      "Monthly Rank Report",
+      "SEO Suggestion Guide",
+      "Keyword Tips Monthly"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 310
+  },
+  {
+    "id": 3,
+    "name": "CMS Support",
+    "thumbnail": "https://i.ibb.co.com/nqH272MG/cms-support.jpg",
+    "banner": "https://i.ibb.co.com/nqH272MG/cms-support.jpg",
+    "frequency": "Monthly",
+    "price": 39.99,
+    "description": "Keep your content fresh with expert CMS help and monthly updates.",
+    "tech_category": "Content Management",
+    "features": [
+      "Content Upload Help",
+      "CMS Error Fixing",
+      "Blog Post Setup"
+    ],
+    "subscription_benefits": [
+      "Scheduled Edits Weekly",
+      "WordPress Friendly Flow",
+      "Quick Update System"
+    ],
+    "ratings": 5,
+    "number_of_reviews": 250
+  },
+  {
+    "id": 4,
+    "name": "Email Tools",
+    "thumbnail": "https://i.ibb.co.com/6ctr0VTf/email-tools.jpg",
+    "banner": "https://i.ibb.co.com/6ctr0VTf/email-tools.jpg",
+    "frequency": "Monthly",
+    "price": 19.99,
+    "description": "Send automated emails with schedule tools, analytics and templates.",
+    "tech_category": "Marketing Automation",
+    "features": [
+      "Email Campaign Setup",
+      "Template Personalization",
+      "Open Rate Tracking"
+    ],
+    "subscription_benefits": [
+      "Pre-Built Templates",
+      "Click Rate Reports",
+      "Automation Setup Help"
+    ],
+    "ratings": 4.5,
+    "number_of_reviews": 330
+  },
+  {
+    "id": 5,
+    "name": "Speed Boost",
+    "thumbnail": "https://i.ibb.co.com/VcbsYDhx/speed-boost.jpg",
+    "banner": "https://i.ibb.co.com/VcbsYDhx/speed-boost.jpg",
+    "frequency": "Monthly",
+    "price": 34.99,
+    "description": "Boost your site loading time and frontend performance efficiently.",
+    "tech_category": "Performance",
+    "features": [
+      "PageSpeed Optimization",
+      "Image Compression Setup",
+      "Minify Code Assets"
+    ],
+    "subscription_benefits": [
+      "Speed Report Weekly",
+      "Lighthouse Grade Boost",
+      "CDN Configuration Help"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 210
+  },
+  {
+    "id": 6,
+    "name": "Analytics Track",
+    "thumbnail": "https://i.ibb.co.com/n8KFWb7G/analytics-track.jpg",
+    "banner": "https://i.ibb.co.com/n8KFWb7G/analytics-track.jpg",
+    "frequency": "Monthly",
+    "price": 24.99,
+    "description": "Track site users, behavior and conversion data in real time easily.",
+    "tech_category": "Analytics",
+    "features": [
+      "Funnel Setup Plans",
+      "GA4 Event Tracking",
+      "Conversion Goal Map"
+    ],
+    "subscription_benefits": [
+      "Analytics Monthly PDF",
+      "Heatmap Tools Add-on",
+      "Tag Manager Support"
+    ],
+    "ratings": 5,
+    "number_of_reviews": 275
+  }
+]

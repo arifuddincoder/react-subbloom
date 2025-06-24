@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "24/7 Monitoring & Alerts",
+    "description": "We track your digital systems all day, every day to prevent any unwanted downtime.",
+    "icon": "MdOutlineMonitorHeart"
+  },
+  {
+    "id": 2,
+    "title": "Encrypted Cloud Backup",
+    "description": "Protect all your data using automated, encrypted cloud backups with zero effort.",
+    "icon": "TbCloudLock"
+  },
+  {
+    "id": 3,
+    "title": "Improved SEO Visibility",
+    "description": "Boost your site’s traffic with continuous SEO support and keyword targeting.",
+    "icon": "FaSearchPlus"
+  },
+  {
+    "id": 4,
+    "title": "Email Automation Tools",
+    "description": "Set up, schedule, and send emails to your users without lifting a finger.",
+    "icon": "HiOutlineMailOpen"
+  },
+  {
+    "id": 5,
+    "title": "Content & CMS Updates",
+    "description": "Ensure your website stays fresh with regular content edits and CMS support.",
+    "icon": "MdSystemUpdateAlt"
+  },
+  {
+    "id": 6,
+    "title": "Advanced Analytics Reports",
+    "description": "Track performance with easy-to-read analytics and visual growth reports.",
+    "icon": "BiBarChartAlt2"
+  }
+]

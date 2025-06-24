@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --font-inter: "Inter", "sans-serif";
+  --color-c5f29cc: #5F29CC;
+  --color-c5026a3: #5026A3;
+  --color-c180a33: #180A33;
+  --color-c4f5a7b: #4F5A7B;
+  --color-cf6f2ff: #F6F2FF;
+  --color-c2a115b: #2A115B;
+  --color-c351574: #351574;
+}
+
+
+body {
+  font-family: var(--font-inter);
+}
+
+.active {
+  color: var(--color-c5f29cc);
+}
+
+.footer .active {
+  color: white;
+}
+
+.subscription-cards-wrap>div:hover {
+  border-color: var(--color-c5f29cc);
+}
+
+.subscription-cards-wrap>div:hover h3 {
+  color: var(--color-c5f29cc);
+}
+
+.subscription-cards-wrap>div:hover h5 {
+  color: white;
+  background-color: var(--color-c5f29cc);
+}
+
+.slide-bg-overlay::before {
+  content: '';
+  width: 70%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+  z-index: 1;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.9) 29%, rgba(47, 18, 102, 0.76) 70%, rgba(47, 18, 102, 0) 100%);
+}
+
+.homeSwiper .swiper-pagination-bullet {
+  background-color: #fff;
+}
+
+.homeSwiper .swiper-pagination-bullet-active {
+  width: 32px;
+  border-radius: 80px;
+}
