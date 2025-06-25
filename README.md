@@ -10,6 +10,44 @@
 [https://github.com/arif128551/react-subbloom](https://github.com/arif128551/react-subbloom)
 
 
+## 🧪 How to Run Locally
+
+To run the project locally on your machine, follow these steps carefully:
+
+### 🚀 1. Clone & Run the react-subbloom
+
+```bash
+git clone https://github.com/arif128551/react-subbloom.git
+cd react-subbloom
+npm install
+npm run dev
+```
+
+---
+
+### 🔐 3. Setup `.env` Files
+
+Create a `.env` file in the directories.
+
+For **website run**:
+```
+VITE_API_URL=http://localhost:5000
+VITE_FIREBASE_API_KEY=your_api_key
+VITE_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=your_project_id
+VITE_FIREBASE_STORAGE_BUCKET=your_bucket
+VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+VITE_FIREBASE_APP_ID=your_app_id
+```
+
+---
+
+Now you're all set!  
+- Server should run at `http://localhost:5000`  
+
+---
+
+
 ---
 
 ## 🎯 Project Purpose
