@@ -7,7 +7,7 @@
 [https://b11a9-subbloom.web.app/](https://b11a9-subbloom.web.app/)
 
 🔗 **Repo Link**:  
-[https://github.com/arif128551/react-subbloom](https://github.com/arif128551/react-subbloom)
+[https://github.com/arifuddincoder/react-subbloom](https://github.com/arifuddincoder/react-subbloom)
 
 
 ## 🧪 How to Run Locally
@@ -17,7 +17,7 @@ To run the project locally on your machine, follow these steps carefully:
 ### 🚀 1. Clone & Run the react-subbloom
 
 ```bash
-git clone https://github.com/arif128551/react-subbloom.git
+git clone https://github.com/arifuddincoder/react-subbloom.git
 cd react-subbloom
 npm install
 npm run dev
@@ -182,7 +182,7 @@ VITE_appId=added_app_id
 ## 👨‍💻 Developer Info
 
 **Md Arif Uddin**  
-📧 xossarif@gmail.com  
+📧 arifuddincoder@gmail.com  
 🎓 Assignment Project for Programming Hero - Assignment 9
 
 ---
